@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "인생은 속도가 아니라 방향이다, 개발도 그렇다!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Alice Kim"
+name                     : "⭐️Alice Kim⭐️"
 description              : "이렇게 개발이 즐거운 일일 줄이야"
 url                      : "https://alice-in-korea.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,51 +104,51 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Alice Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "즐기는 개발자"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: "mailto:aliceinkorea.frontend@gemail.com"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url: "https://twitter.com/"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/alice-in-korea"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url:
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/alice-in-korea"
+#     - label: "GitLab"
+#       icon: "fab fa-fw fa-gitlab"
+#       # url:
+#     - label: "Bitbucket"
+#       icon: "fab fa-fw fa-bitbucket"
+#       # url:
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
       # url:
 
 
